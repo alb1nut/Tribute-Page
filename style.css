@@ -1,0 +1,37 @@
+h3{
+    text-align: center;
+}
+
+
+
+/* HEADER SECTION */
+.header{
+    text-align: center;
+}
+
+/* BACKGROUND IMAGE SECTION */
+.img-div{
+
+    
+}
+
+.image{
+    max-width: 100%;
+display: block;
+height: auto;
+margin: 0 auto;
+}
+
+/* ARTICLE SECTION */
+
+article{
+    padding: 0 20%;
+}
+
+
+
+@media (max-width:800px){
+    article{
+        padding: 10%;
+    }
+}
